@@ -1,0 +1,1 @@
+--function ToHex(num) return string.format("%X", num * 10) end
